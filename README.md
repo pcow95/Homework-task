@@ -1,2 +1,2 @@
-# Homework task
+# Homework repository
  
